@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Micheal Akingbade 👋
 
-<!--
-**michealakingbade/michealakingbade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer at **TechBleat** | Building scalable web solutions
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a web developer passionate about creating efficient and user-friendly applications. Currently working at TechBleat, where I build modern web solutions using cutting-edge technologies.
+
+With a background in Mathematics, I bring analytical thinking and problem-solving skills to every project I work on.
+
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript  
+**Backend:** Python, FastAPI  
+**Focus:** Full-stack development, API design, modern web applications
+
+## Currently
+
+- 🔭 Working on projects at [TechBleat](https://techbleat.co.uk)
+- 🌱 Continuously learning and exploring new technologies
+
+## Connect
+
+📧 michael.akingbade@techbleat.co.uk
+
+---
+
+*Building the web, one commit at a time.*
