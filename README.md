@@ -12,6 +12,7 @@ With a background in Mathematics, I bring analytical thinking and problem-solvin
 
 **Frontend:** React, Next.js, TypeScript, JavaScript  
 **Backend:** Python, FastAPI  
+**Database:** PostgreSQL, MongoDB, Supabase  
 **Focus:** Full-stack development, API design, modern web applications
 
 ## Currently
