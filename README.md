@@ -26,4 +26,4 @@ With a background in Mathematics, I bring analytical thinking and problem-solvin
 
 ---
 
-*Building the web, one commit at a time.*
+_Building the web, one commit at a time_
