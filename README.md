@@ -23,6 +23,7 @@ With a background in Mathematics, I bring analytical thinking and problem-solvin
 ## Connect
 
 📧 michael.akingbade@techbleat.co.uk
+update
 
 ---
 
